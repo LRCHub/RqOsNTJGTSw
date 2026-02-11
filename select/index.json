@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "2E feat. 梓川",
+  "base_artist": "Goat",
+  "createdAt": "2026-02-11T08:52:12.655875Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2E feat. 梓川",
+      "artist": "Goat",
+      "has_synced": false,
+      "path": "select/pl_01_2E_feat._梓川_Goat.txt"
+    }
+  ]
+}
